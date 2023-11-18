@@ -6,5 +6,5 @@ console.log(typeof id)
 
 //********************************************************************//
 // two types of memory
-// stack and heap
+// stack(Primitive) and heap(Non - primitive)
 // stack is used in primitive types and heap is used in non- primitive datatypes
