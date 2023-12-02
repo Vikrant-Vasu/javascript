@@ -12,9 +12,9 @@ const coding = ["js", "ruby", "java", "cpp"]
 // }
 // coding.forEach(printMe)
 
-// coding.forEach(function (index,item){
-//     console.log(item, " : ", index);
-// });
+coding.forEach(function (item,index){
+    console.log(index, " : ", item);
+});
 
 
 
